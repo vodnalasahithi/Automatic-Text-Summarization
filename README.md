@@ -7,7 +7,7 @@ Text summarization is the problem of creating a short, accurate and fluent summa
 ### Visual Studio Code
 * [VScode](https://code.visualstudio.com/download) - The Editor used
 ### Libraries
-Numpy
+
 * [Numpy](https://pypi.org/project/numpy/) - The Library used
 NLTK
 * [NLTK](https://www.nltk.org/data.html) - The Library used
